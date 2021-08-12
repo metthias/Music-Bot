@@ -758,4 +758,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Game(name="praying to Lord metthias#0350"))
 
 
-bot.run('ODcyMjE5NzY5OTgwNDc3NDQw.YQmr9g.o7Fdl2JJkC5-k3M7AU-yNJt01-0')
+bot.run('')
